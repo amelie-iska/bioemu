@@ -114,3 +114,8 @@ The script saves reconstructed all-heavy-atom structures in `samples_sidechain_r
 The code in the `openfold` subdirectory is copied from [openfold](https://github.com/aqlaboratory/openfold) with minor modifications. The modifications are described in the relevant source files.
 ## Get in touch
 If you have any questions not covered here, please create an issue or contact the BioEmu team by writing to the corresponding author on our [preprint](https://doi.org/10.1101/2024.12.05.626885).
+
+
+--- 
+
+I would like to investigate this model for (1) assessing binding of a binder to a target if possible to use on binder-target complexes, (2) de novo enzyme design assessment, (3) obtaining diverse starting conformations (for targets). 
